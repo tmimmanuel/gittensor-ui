@@ -21,9 +21,3 @@ export * from './PRStatusChart';
 
 export { default as RepositoriesTable } from './RepositoriesTable';
 export * from './RepositoriesTable';
-
-export { default as TierPerformanceTable } from './TierPerformanceTable';
-export * from './TierPerformanceTable';
-
-export { default as TierRepoCard } from './TierRepoCard';
-export * from './TierRepoCard';
